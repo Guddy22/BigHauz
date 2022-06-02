@@ -19,7 +19,8 @@ export default function Carousel() {
         speed: 500,
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplat:true
+        autoplay:true,
+        speed: 300
       };
 
     return (
